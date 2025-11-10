@@ -3,7 +3,7 @@ import React from "react";
 
 const NavBar = () => {
   return (
-    <div className="flex bg-slate-200 p-3">
+    <div className="flex bg-slate-200 p-3 rounded-xl">
       <Link href="/" className="mr-5">
         Next.js
       </Link>
